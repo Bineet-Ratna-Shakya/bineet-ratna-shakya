@@ -1,11 +1,11 @@
-<table style="width:100%;">
-  <tr>
-    <td style="width:160px; vertical-align: middle;">
-      <img src="Heart Love GIF.gif" width="160" style="border-radius:8px;" />
-    </td>
-    <td style="vertical-align: middle;">
-      <h2>Bineet Ratna Shakya</h2>
-      <p>AI Engineer • Working with Models & Intelligent Systems</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <img src="Heart Love GIF.gif" 
+       style="border-radius: 8px; max-height: 140px;" />
+
+  <div style="flex: 1; padding-left: 20px;">
+    <h2 style="margin: 0;">Bineet Ratna Shakya</h2>
+    <p style="margin: 4px 0 0; font-size: 16px; color: #ccc;">
+      AI Engineer • Working with Models & Intelligent Systems
+    </p>
+  </div>
+</div>
