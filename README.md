@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td width="120">
-      <img src="Heart Love GIF.gif" width="120" style="border-radius:6px;" />
-    </td>
     <td>
-      <h3>Bineet Ratna Shakya</h3>
-      <p>AI Engineer • Building intelligent systems</p>
+      <img src="profile.gif" width="220" style="border-radius:8px;" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h2>Bineet Ratna Shakya</h2>
+      <p>AI Engineer · Building intelligent systems</p>
     </td>
   </tr>
 </table>
